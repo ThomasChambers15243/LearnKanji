@@ -1,4 +1,3 @@
 # LearnKanji
-Some software to help me learn kanji when studying japanese. 
-It's not finished but its working and I'm planning to come back to it and re-write it
-in C#.
+Software to help users memorise kanji using JLPT and custom user-made sets. Speeds up the process, giving live feedback on progress.
+In an early prototype state currently. 
